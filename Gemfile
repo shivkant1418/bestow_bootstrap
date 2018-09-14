@@ -28,6 +28,10 @@ gem 'frontend-generators'
 gem 'jquery-rails'
 gem 'pg'
 gem 'bootstrap-sass'
+gem 'devise'
+gem 'jquery-turbolinks'
+
+gem "letter_opener", :group => :development
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
